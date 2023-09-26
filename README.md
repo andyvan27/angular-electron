@@ -1,7 +1,10 @@
 # Sample Electron hosting Angular
 
+## To install components
+`npm install`
+
 ## To build
-`npm build`
+`npm run build`
 
 ## To run
 `npm run electron`
